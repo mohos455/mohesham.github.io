@@ -38,8 +38,3 @@ Projects
 * SPI Slave with RAM: RTL code for SPI Slave with RAM with Verilog.
 * RTL For Single - Multi Cycle MIPS Processor: Write the RTL code for MIPS processor with Verilog.
 * Client Queue System with Verilg: RTL code for Client Queue to to display various information about the status of the queue with Verilog.
-# Projects
-# ======
-  # <ul>{% for post in site.publications %}
- #   {% include archive-single-cv.html %}
- # {% endfor %}</ul>
